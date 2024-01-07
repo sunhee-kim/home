@@ -43,7 +43,7 @@ audio:not([controls]){
     display:none
 }
 a{
-    color:#B3A369
+    color:#500000
 }
 a:hover,a:active{
     outline:0
@@ -616,7 +616,7 @@ a.reversefootnote:hover{
     text-decoration:underline
 }
 .required{
-    color:#003057;
+    color:#3C0000;
     font-weight:bold
 }
 @-webkit-keyframes intro{
@@ -709,7 +709,7 @@ tr,td,th{
     background-color:transparent
 }
 .btn--info{
-    background-color:#B3A369
+    background-color:#500000
 }
 .btn--info:hover{
     background-color:#841012
@@ -788,17 +788,17 @@ tr,td,th{
     display:inline-block;
     margin-bottom:0.25em;
     padding:0.125em 0.25em;
-    color:#B3A369;
+    color:#500000;
     text-align:center;
     text-decoration:none !important;
     border:1px solid;
-    border-color:#B3A369;
+    border-color:#500000;
     border-radius:4px;
     cursor:pointer
 }
 .btn--research:hover{
     color:#fff;
-    background-color:#B3A369 !important
+    background-color:#500000 !important
 }
 .notice{
     margin:2em 0 !important;
@@ -900,7 +900,7 @@ tr,td,th{
     padding-top:0
 }
 .notice--info a{
-    color:#B3A369
+    color:#500000
 }
 .notice--info a:hover{
     color:#630c0e
@@ -1245,7 +1245,7 @@ tr,td,th{
     text-decoration:none
 }
 .greedy-nav a:hover{
-    color:#B3A369
+    color:#500000
 }
 .greedy-nav button{
     position:absolute;
@@ -1283,7 +1283,7 @@ tr,td,th{
     left:0;
     bottom:0;
     height:4px;
-    background:#003057;
+    background:#3C0000;
     width:100%;
     -webkit-transition:all 0.2s ease-in-out;
     transition:all 0.2s ease-in-out;
@@ -1562,7 +1562,7 @@ div.highlighter-rouge .highlight,figure.highlight .highlight{
 }
 .highlight .err{
     color:#a40000;
-    border:1px solid #003057
+    border:1px solid #3C0000
 }
 .highlight .g{
     color:#000
@@ -1620,7 +1620,7 @@ div.highlighter-rouge .highlight,figure.highlight .highlight{
     font-style:italic
 }
 .highlight .gr{
-    color:#003057
+    color:#3C0000
 }
 .highlight .gh{
     color:#000080;
@@ -1975,7 +1975,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
     box-shadow:none
 }
 .help-block,.help-inline{
-    color:#B3A369
+    color:#500000
 }
 .help-block{
     display:block;
@@ -2307,7 +2307,7 @@ input[type="file"]:focus,input[type="radio"]:focus,input[type="checkbox"]:focus,
 }
 .page__taxonomy-item:hover{
     text-decoration:none;
-    color:#003057
+    color:#3C0000
 }
 .page__comments{
     clear:both;
